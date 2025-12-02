@@ -1,0 +1,61 @@
+# Kajetan Kaczyński
+
+**Email:** 98462@studet.up.poznan.pl
+**Telefon:** +48 123 456 789
+**Lokalizacja:** Poznań, Polska
+
+## Podsumowanie
+Krótki, zwięzły opis Twojego doświadczenia, umiejętności i celów zawodowych.
+
+## Doświadczenie zawodowe
+
+### Student | UPP
+*Październik 2023 - Obecnie*
+
+- Kluczowe osiągnięcia i obowiązki
+- Opis projektów i odpowiedzialności
+- Wymierne efekty pracy (np. zwiększenie wydajności o X%)
+
+### Senior Developer | Google
+*Wrzesien 1999- Wrzesien 2023*
+
+- Główne zadania
+- Osiągnięcia
+- Zdobyte umiejętności
+
+## Edukacja
+
+### inż. Informatyka i Inżynieria danych | Uniwersytet Przyrodniczy w Poznaniu
+*Rok ukończenia*
+
+- Specjalizacja
+- Średnia ocen
+- Istotne osiągnięcia akademickie
+
+## Umiejętności
+
+- **Techniczne:** Python, R, SQL, Git
+- **Miękkie:** Komunikacja, praca zespołowa, rozwiązywanie problemów
+- **Języki:** Polski (ojczysty), Angielski (B2)
+
+## Certyfikaty
+
+- Nazwa Certyfikatu, Instytucja, Rok
+- Kolejny Certyfikat
+
+## Projekty
+
+### Nazwa Projektu
+- Krótki opis
+- Technologie użyte
+- Link do repozytorium (opcjonalnie)
+
+## Zainteresowania
+
+- Programowanie
+- Analiza danych
+- Fotografia
+- Podróże
+
+## Referencje
+Dostępne na życzenie

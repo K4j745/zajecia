@@ -9,5 +9,5 @@ editor_options:
 ---
 
 [pingwiny](palmer_penguins_cwiczenia.html)
-
+[cv](cv_template.html)
 Welcome to my research website.
